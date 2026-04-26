@@ -1,7 +1,7 @@
 public class Reut{
     public static void main(String[] args){
         for (int i=1; i<=10; i++){
-            System.out.println("Reut..."+i);
+            System.out.println("Reut Sasson..."+i);
         }
     }
 }
